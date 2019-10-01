@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# exclude everything
+out/crackconcrete/*
+out/membrane/*
+out/tolabel/*
+
 # Distribution / packaging
 .Python
 build/
